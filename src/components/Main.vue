@@ -1,0 +1,12 @@
+<template>
+    <div>
+        <button type="button" onclick="location.href='/login'">Login</button>
+        <button type="button" onclick="location.href='/signup'">Sign Up</button>
+    </div>
+</template>
+
+<script>
+export default {
+    
+}
+</script>
